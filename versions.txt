@@ -48,7 +48,7 @@
 76;2;droptweaker v2=2
 78;2.2.2;d1stats chs 2.2.2=2.2.2
 81;2;autoheal25=2;autoheal50=2;autoheal75=2
-82;1.1;blueprintloader 2 1.1 2026 09 29t21 25z 5qmqdem8u=1.1;uncappedlevel 47 1.1 2026 10 05t12 24z lbvbxcv8s=1.1
+82;1.2.1;blueprintloader 2 1.1 2026 09 29t21 25z 5qmqdem8u=1.1;uncappedlevel-1.2.1=1.2.1
 83;1.1.2;dragsalvage=1.1.2
 84;1.1.4;emoticons=1.1.4
 85;1.1;dungeons ii - first and third person - windows x64=1.1
@@ -74,12 +74,12 @@
 115;1.0;countdown skip=1.0
 116;1.1.5;customcapes=1.1.5
 118;1.1.0;multijump v1.0.0=1;multijump v1.1.0=1.1.0;double jump v1.1.0=1.1.0;triple jump v1.1.0=1.1.0
-119;2.0;asset dumper=2.0
+119;2.1;asset dumper=2.1
 120;2;minecraft dungeons ii data=2
 122;1;stopkey=1
 125;1.0;clearer world map=1.0
 126;1.0.3;statsoverlay=1.0.3
-128;1.1.0;sprint mod v1.1.0=1.1.0
+128;1.1.1;sprint mod v1.1.0=1.1.0;sprint mod v1.1.1=1.1.1
 129;1.1.0;infinite arrows v1.1.0=1.1.0
 130;1;fastroll v1.0.0=1
 131;1.1.0;item magnet v1.1.0=1.1.0
@@ -94,3 +94,8 @@
 141;1.0.0;dummy dps test=1.0.0
 142;1.0;no cloud shadows=1.0
 143;1.0.0;texture pack template=1.0.0;texture pack loader=1.0.0
+144;1;dungeonsmodmenu=1
+146;0.3.29;ghostlayer 0.3.28=0.3.28;ghostlayer 0.3.29=0.3.29
+147;0.1.0-alpha.2;modlab 0.1.0-alpha.2 - complete installer=0.1.0-alpha.2;modlab 0.1.0-alpha.2 - complete manual package=0.1.0-alpha.2;modlab 0.1.0-alpha.3 - native installer=0.1.0-alpha.3;modlab 0.1.0-alpha.4 - standard installer=0.1.0-alpha.4;modlab 0.1.0-alpha.5 - standard installer=0.1.0-alpha.5
+148;1;waypoints 1.0=1
+149;1;snifferslabberpack=1
