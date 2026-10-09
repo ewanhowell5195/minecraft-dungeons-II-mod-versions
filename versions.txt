@@ -61,7 +61,7 @@
 96;1;mappoifilter 1.0.0=1
 98;1.2;native loader=1.2;native mod template=1.2.1
 99;1.4.0;visualclarity 1.4.0=1.4.0
-100;1.0.2;dungeonsguix=1.0.2
+100;1.2.1;dungeonsguix=1.2.1
 101;1.0.1;tidetimer 1.0.1=1.0.1
 102;1.0.1;dungeonmap 1.0.1=1.0.1
 106;1;minecarticonhider=1
@@ -88,7 +88,9 @@
 134;1;healthoverlay=1
 136;1.0.2;bettergear=1.0.2
 137;1;loadoutslots 0.1.7 install=1
-138;0.1.21;betterminimap 0.1.21=0.1.21
+138;0.1.22;betterminimap 0.1.21=0.1.21;betterminimap 0.1.22=0.1.22
 139;1.1.0;dungeonmetrics 1.1.0=1.1.0
 140;1.0;hover inspector=1.0
 141;1.0.0;dummy dps test=1.0.0
+142;1.0;no cloud shadows=1.0
+143;1.0.0;texture pack template=1.0.0;texture pack loader=1.0.0
