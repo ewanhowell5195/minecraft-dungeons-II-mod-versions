@@ -89,7 +89,7 @@
 136;1.0.2;bettergear=1.0.2
 137;1;loadoutslots 0.1.7 install=1
 138;0.1.22;betterminimap 0.1.21=0.1.21;betterminimap 0.1.22=0.1.22
-139;1.1.0;dungeonmetrics 1.1.0=1.1.0
+139;1.1.1;dungeonmetrics 1.1.1=1.1.1
 140;1.0;hover inspector=1.0
 141;1.0.0;dummy dps test=1.0.0
 142;1.0;no cloud shadows=1.0
