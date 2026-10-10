@@ -88,7 +88,7 @@
 134;1;healthoverlay=1
 136;1.0.2;bettergear=1.0.2
 137;1;loadoutslots 0.1.7 install=1
-138;0.1.22;betterminimap 0.1.21=0.1.21;betterminimap 0.1.22=0.1.22
+138;0.1.23;betterminimap 0.1.21=0.1.21;betterminimap 0.1.22=0.1.22;betterminimap 0.1.23=0.1.23
 139;1.1.1;dungeonmetrics 1.1.1=1.1.1
 140;1.0;hover inspector=1.0
 141;1.0.0;dummy dps test=1.0.0
@@ -103,3 +103,4 @@
 151;1;loadoutmodfolder=1
 152;1.0;wolf pet customiser=1.0
 153;0.3;quitfix=0.3
+155;1.0;basicloadouts 1.0=1.0
