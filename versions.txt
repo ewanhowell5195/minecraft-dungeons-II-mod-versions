@@ -89,13 +89,13 @@
 136;1.0.2;bettergear=1.0.2
 137;1;loadoutslots 0.1.7 install=1
 138;0.1.23;betterminimap 0.1.21=0.1.21;betterminimap 0.1.22=0.1.22;betterminimap 0.1.23=0.1.23
-139;1.1.1;dungeonmetrics 1.1.1=1.1.1
+139;1.1.2;dungeonmetrics 1.1.1=1.1.2
 140;1.0;hover inspector=1.0
 141;1.0.0;dummy dps test=1.0.0
 142;1.0;no cloud shadows=1.0
 143;1.0.0;texture pack template=1.0.0;texture pack loader=1.0.0
 144;1;dungeonsmodmenu=1
-146;0.3.40;ghostlayer 0.3.28=0.3.28;ghostlayer 0.3.29=0.3.29;ghostlayer 0.3.40=0.3.40
+146;0.3.43;ghostlayer 0.3.28=0.3.28;ghostlayer 0.3.29=0.3.29;ghostlayer 0.3.40=0.3.40;ghostlayer 0.3.42=0.3.42;ghostlayer 0.3.43=0.3.43
 147;0.1.0-alpha.2;modlab 0.1.0-alpha.2 - complete installer=0.1.0-alpha.2;modlab 0.1.0-alpha.2 - complete manual package=0.1.0-alpha.2;modlab 0.1.0-alpha.3 - native installer=0.1.0-alpha.3;modlab 0.1.0-alpha.4 - standard installer=0.1.0-alpha.4;modlab 0.1.0-alpha.5 - standard installer=0.1.0-alpha.5
 148;2;waypoints 1.0=1;waypoints 1.1=2
 149;1;snifferslabberpack=1
@@ -103,4 +103,5 @@
 151;1;loadoutmodfolder=1
 152;1.0;wolf pet customiser=1.0
 153;0.3;quitfix=0.3
-155;1.0;basicloadouts 1.0=1.0
+155;1.1.0;basicloadouts 1.0=1.0;basicloadouts 1.1.0=1.1.0
+156;0.1.0;questidle 0.1.0=0.1.0
