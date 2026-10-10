@@ -5,14 +5,14 @@
 6;1;dungeons ii customskin=1
 7;1.1;edge outline=1.1
 8;1.1;freecam=1.1
-9;1.2;custom skin loader=1.2
-10;1.1;second skin layer=1.1
+9;1.3;custom skin loader=1.3
+10;1.2;second skin layer=1.2
 11;1.9;wasd controls=1.9
 12;1.3;hold to jump=1.3
 13;1.2;invisible armor=1.2
 14;1;crusader's 720p cutscenes=1
 15;1;thirdpersoncam 0.2.0=1;thirdpersoncam 0.3.0=1
-16;1.1;3d skin layers=1.1
+16;1.2;3d skin layers=1.2
 18;1;minecraft dungeon ii vh lokidarkness v1.10.26=1
 19;1;glowinthedark=1
 28;4;minecraftdungeons2modthai=4
@@ -68,7 +68,7 @@
 107;0.1;online and offline hero converter=0.1
 108;2.0.0;zhfontfix 1.0.0=1.0.0;zhfontfix-2.0.0=2.0.0;zhfontfix-1.3.2=1.3.2
 109;1.0.0;coopkbm 1.0.0=1.0.0
-111;2;bestgear 0.1.0=0.1.0;bestgear 0.2.0=2
+111;1;gearshift 0.4.0=1
 112;1.0;mcd2 cheat menu 1.0=1.0
 114;1;zh-cn_commafix v1.0=1
 115;1.0;countdown skip=1.0
