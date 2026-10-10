@@ -5,14 +5,14 @@
 6;1;dungeons ii customskin=1
 7;1.1;edge outline=1.1
 8;1.1;freecam=1.1
-9;1.1;customskinloader=1.1
-10;1;secondskinlayer=1
+9;1.2;custom skin loader=1.2
+10;1.1;second skin layer=1.1
 11;1.9;wasd controls=1.9
 12;1.3;hold to jump=1.3
-13;1.1;invisible armor=1.1
+13;1.2;invisible armor=1.2
 14;1;crusader's 720p cutscenes=1
 15;1;thirdpersoncam 0.2.0=1;thirdpersoncam 0.3.0=1
-16;1;skinlayers3d=1
+16;1.1;3d skin layers=1.1
 18;1;minecraft dungeon ii vh lokidarkness v1.10.26=1
 19;1;glowinthedark=1
 28;4;minecraftdungeons2modthai=4
@@ -97,6 +97,9 @@
 144;1;dungeonsmodmenu=1
 146;0.3.40;ghostlayer 0.3.28=0.3.28;ghostlayer 0.3.29=0.3.29;ghostlayer 0.3.40=0.3.40
 147;0.1.0-alpha.2;modlab 0.1.0-alpha.2 - complete installer=0.1.0-alpha.2;modlab 0.1.0-alpha.2 - complete manual package=0.1.0-alpha.2;modlab 0.1.0-alpha.3 - native installer=0.1.0-alpha.3;modlab 0.1.0-alpha.4 - standard installer=0.1.0-alpha.4;modlab 0.1.0-alpha.5 - standard installer=0.1.0-alpha.5
-148;1;waypoints 1.0=1
+148;2;waypoints 1.0=1;waypoints 1.1=2
 149;1;snifferslabberpack=1
-150;1;loadouts 1.0=1
+150;3;loadouts 1.0=1;loadouts 1.1=2;loadouts 1.2=3
+151;1;loadoutmodfolder=1
+152;1.0;wolf pet customiser=1.0
+153;0.3;quitfix=0.3
