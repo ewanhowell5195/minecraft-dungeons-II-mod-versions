@@ -110,3 +110,4 @@
 160;1.2;lootfilter=1.2
 162;1.0;minecraft dungeons ii mo2 support 1.0=1.0
 163;0.1;wardencompanion=0.1
+164;0.5.6;voidmacro v0.5.6=0.5.6
