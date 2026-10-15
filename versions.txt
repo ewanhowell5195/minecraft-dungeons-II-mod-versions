@@ -82,7 +82,7 @@
 129;1.1.0;infinite arrows v1.1.0=1.1.0
 130;1;fastroll v1.0.0=1
 131;1.1.0;item magnet v1.1.0=1.1.0
-132;1.1.0;dungeons trainer v1.1.0=1.1.0
+132;1.1.1;dungeons trainer v1.1.0=1.1.0;dungeons trainer v1.1.1=1.1.1
 133;1.0;avmr 47 1.0 2026 10 05t20 27z zpup1yujk=1.0
 134;1;healthoverlay=1
 136;1.0.4;bettergear=1.0.4
