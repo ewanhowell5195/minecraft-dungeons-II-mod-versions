@@ -78,7 +78,7 @@
 122;1;stopkey=1
 125;1.0;clearer world map=1.0
 126;1.0.4;statsoverlay=1.0.4
-128;1.1.1;sprint mod v1.1.0=1.1.0;sprint mod v1.1.1=1.1.1
+128;1.1.2;sprint mod v1.1.0=1.1.0;sprint mod v1.1.1=1.1.1;sprint mod v1.1.2=1.1.2
 129;1.1.0;infinite arrows v1.1.0=1.1.0
 130;1;fastroll v1.0.0=1
 131;1.1.0;item magnet v1.1.0=1.1.0
@@ -111,3 +111,4 @@
 162;1.0;minecraft dungeons ii mo2 support 1.0=1.0
 163;0.1;wardencompanion=0.1
 164;0.5.6;voidmacro v0.5.6=0.5.6
+165;0.3.0;itemfinder=0.3.0
