@@ -89,7 +89,7 @@
 137;1;loadoutslots 0.1.7 install=1
 138;0.1.24;betterminimap 0.1.21=0.1.21;betterminimap 0.1.22=0.1.22;betterminimap 0.1.23=0.1.23;betterminimap 0.1.24=0.1.24
 139;1.3.1;dungeonmetrics 1.3.1=1.3.1
-140;1.0;hover inspector=1.0
+140;1.1;hover inspector=1.1
 141;1.0.0;dummy dps test=1.0.0
 142;1.0;no cloud shadows=1.0
 143;1.1.0;texture pack template=1.1.0;texture pack loader=1.1.0
@@ -105,10 +105,10 @@
 155;1.3.2;basicloadouts 1.3.2=1.3.2
 156;0.1.0;questidle 0.1.0=0.1.0
 157;1;foxpet v0.9=1
-158;1.0;custom loading screens=1.0
+158;1.1;custom loading screens=1.1
 159;1;md2=1
 160;1.2;lootfilter=1.2
-161;2;dungeonsiisaveeditor=2
+161;3;dungeonsiisaveeditor=3
 162;1.0;minecraft dungeons ii mo2 support 1.0=1.0
 163;0.1;wardencompanion=0.1
 164;0.5.6;voidmacro v0.5.6=0.5.6
@@ -116,3 +116,4 @@
 166;1;dungeonkit 1.120.0=1
 167;0.1.0;introvolume 0.1.0=0.1.0;introvolume 0.1.0 - source=0.1.0
 168;0.4.2;modloader 0.4.2=0.4.2;modloader 0.4.2 - source=0.4.2
+170;1.0.0;dropfinder=1.0.0
