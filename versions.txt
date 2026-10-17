@@ -74,7 +74,7 @@
 116;1.1.7;customcapes=1.1.7
 118;1.1.0;multijump v1.0.0=1;multijump v1.1.0=1.1.0;double jump v1.1.0=1.1.0;triple jump v1.1.0=1.1.0
 119;2.3;asset dumper=2.3
-120;2;minecraft dungeons ii data=2
+120;1;minecraft dungeons ii data=1
 122;1;stopkey=1
 125;1.0;clearer world map=1.0
 126;1.0.4;statsoverlay=1.0.4
@@ -94,7 +94,7 @@
 142;1.0;no cloud shadows=1.0
 143;1.1.0;texture pack template=1.1.0;texture pack loader=1.1.0
 144;1;dungeonsmodmenu=1
-146;0.3.43;ghostlayer 0.3.28=0.3.28;ghostlayer 0.3.29=0.3.29;ghostlayer 0.3.40=0.3.40;ghostlayer 0.3.42=0.3.42;ghostlayer 0.3.43=0.3.43
+146;0.4.0;ghostlayer 0.3.28=0.3.28;ghostlayer 0.3.29=0.3.29;ghostlayer 0.3.40=0.3.40;ghostlayer 0.3.42=0.3.42;ghostlayer 0.3.43=0.3.43;ghostlayer 0.4.0=0.4.0
 147;0.1.0-alpha.2;modlab 0.1.0-alpha.2 - complete manual package=0.1.0-alpha.2;modlab 0.1.0-alpha.5 - standard installer=0.1.0-alpha.5
 148;2;waypoints 1.0=1;waypoints 1.1=2
 149;1;snifferslabberpack=1
