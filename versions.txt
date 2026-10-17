@@ -112,7 +112,7 @@
 162;1.0;minecraft dungeons ii mo2 support 1.0=1.0
 163;0.1;wardencompanion=0.1
 164;0.5.6;voidmacro v0.5.6=0.5.6
-165;0.3.0;itemfinder=0.3.0
+165;0.3.3;itemfinder=0.3.3
 166;1;dungeonkit 1.120.0=1
 167;0.1.0;introvolume 0.1.0=0.1.0;introvolume 0.1.0 - source=0.1.0
 168;0.4.2;modloader 0.4.2=0.4.2;modloader 0.4.2 - source=0.4.2
