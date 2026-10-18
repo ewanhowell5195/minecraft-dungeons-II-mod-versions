@@ -115,7 +115,8 @@
 166;1;dungeonkit 1.120.0=1
 167;0.1.0;introvolume 0.1.0=0.1.0;introvolume 0.1.0 - source=0.1.0
 168;0.4.2;modloader 0.4.2=0.4.2;modloader 0.4.2 - source=0.4.2
-170;1.0.0;dropfinder=1.0.0
+170;1.0.1;dropfinder=1.0.1
 172;0.1.3;anywheresmiths 0.1.3=0.1.3
 173;1;empress spherecraft=1
 175;1.0.0;moveattack=1.0.0
+176;1.0.0;unleveled=1.0.0
