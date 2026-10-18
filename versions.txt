@@ -56,7 +56,6 @@
 91;1;dungeons vietnamese=1
 93;1.3.0;damage meter=1.3.0
 94;1.2.9;customskins=1.2.9
-95;2.1.1;betterblueprintloader=2.1.1
 96;1;mappoifilter 1.0.0=1
 98;1.4;native mod template=1.2.1;native loader=1.4
 99;1.4.1;visualclarity 1.4.1=1.4.1
@@ -88,7 +87,7 @@
 136;1.0.4;bettergear=1.0.4
 137;1;loadoutslots 0.1.7 install=1
 138;0.1.24;betterminimap 0.1.21=0.1.21;betterminimap 0.1.22=0.1.22;betterminimap 0.1.23=0.1.23;betterminimap 0.1.24=0.1.24
-139;1.3.1;dungeonmetrics 1.3.1=1.3.1
+139;1.3.2;dungeonmetrics 1.3.2=1.3.2
 140;1.1;hover inspector=1.1
 141;1.0.0;dummy dps test=1.0.0
 142;1.0;no cloud shadows=1.0
