@@ -125,3 +125,4 @@
 177;1.1;zoomcontrol=1.1
 178;1;minecraftdungeonsii arabic translation 1.0=1
 179;1;coopcheat v1.4=1
+180;1;duperoll 1.1=1
