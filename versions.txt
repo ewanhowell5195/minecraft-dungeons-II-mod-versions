@@ -94,7 +94,7 @@
 143;1.1.0;texture pack template=1.1.0;texture pack loader=1.1.0
 144;1;dungeonsmodmenu=1
 146;0.4.0;ghostlayer 0.3.28=0.3.28;ghostlayer 0.3.29=0.3.29;ghostlayer 0.3.40=0.3.40;ghostlayer 0.3.42=0.3.42;ghostlayer 0.3.43=0.3.43;ghostlayer 0.4.0=0.4.0
-147;0.1.0-alpha.8;modlab 0.1.0-alpha.2 - complete manual package=0.1.0-alpha.2;modlab 0.1.0-alpha.8 - complete manual package=0.1.0-alpha.8;modlab 0.1.0-alpha.8 - easy installer (no exe)=0.1.0-alpha.8
+147;0.1.0-alpha.8;modlab 0.1.0-alpha.2 - complete manual package=0.1.0-alpha.2;modlab 0.1.0-alpha.8 - complete manual package=0.1.0-alpha.8
 148;2;waypoints 1.0=1;waypoints 1.1=2
 149;1;snifferslabberpack=1
 150;3;loadouts 1.0=1;loadouts 1.1=2;loadouts 1.2=3
