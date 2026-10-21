@@ -40,6 +40,7 @@
 67;1;bigheaddall=1
 68;0.1.5;dungeonspov 0.1.5 alpha=0.1.5
 69;1;no intro=1
+70;1.0.8;mcdii mod manager=1.0.8
 71;1.1.2;better item stats 1.0=1;better item stats 1.1.2=1.1.2
 72;1.0;dungeons 1 menu camp=1.0
 73;1;custom walkspeed=1
@@ -62,6 +63,7 @@
 100;1.2.1;dungeonsguix=1.2.1
 101;1.0.1;tidetimer 1.0.1=1.0.1
 102;1.0.1;dungeonmap 1.0.1=1.0.1
+104;1.5.1;wasdmod - windows and linux (also steam deck)=1.5.1;wasdmod - mac (crossover)=1.5.1
 106;1;minecarticonhider=1
 107;1.0;online to offline hero converter=1.0
 108;2.0.0;zhfontfix 1.0.0=1.0.0;zhfontfix-2.0.0=2.0.0;zhfontfix-1.3.2=1.3.2
