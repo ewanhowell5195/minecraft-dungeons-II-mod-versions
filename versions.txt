@@ -107,7 +107,7 @@
 156;0.1.0;questidle 0.1.0=0.1.0
 157;1;foxpet v0.9=1
 158;1.1;custom loading screens=1.1
-159;1;md2=1
+159;1.1;mcd2 save editor 1.1=1.1
 160;1.2;lootfilter=1.2
 161;3;dungeonsiisaveeditor=3
 162;1.0;minecraft dungeons ii mo2 support 1.0=1.0
