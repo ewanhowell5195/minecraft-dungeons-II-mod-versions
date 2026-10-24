@@ -1,5 +1,5 @@
 1;2.1.0;playstation button prompts 2.1.0=2.1.0;nintendo switch button prompts 2.1.0=2.1.0
-2;2.6;blueprintmodtemplate=2.4;blueprint loader=2.6
+2;2.7;blueprintmodtemplate=2.4;blueprint loader=2.7
 3;1.1;uncapped cutscenes=1.1
 4;1;sharper image and less flicker=1;main version (recommended) v2=2;low-end gpu version (optional file) v2=2;manual install (v1.0)=1
 6;1;dungeons ii customskin=1
@@ -117,7 +117,7 @@
 166;1;dungeonkit 1.120.0=1
 167;0.1.0;introvolume 0.1.0=0.1.0;introvolume 0.1.0 - source=0.1.0
 168;0.4.2;modloader 0.4.2=0.4.2;modloader 0.4.2 - source=0.4.2
-170;1.0.1;dropfinder=1.0.1
+170;1.0.2;dropfinder=1.0.2
 172;0.1.3;anywheresmiths 0.1.3=0.1.3
 173;1;empress spherecraft=1
 175;1.0.0;moveattack=1.0.0
