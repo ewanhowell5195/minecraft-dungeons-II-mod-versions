@@ -127,3 +127,4 @@
 178;1;minecraftdungeonsii arabic translation 1.0=1
 179;1;coopcheat v1.4=1
 180;1;duperoll 1.1=1
+185;1.2;extratalismanslot=1;extratalismanslot v1.2=1.2
