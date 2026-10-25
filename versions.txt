@@ -128,3 +128,4 @@
 179;1;coopcheat v1.4=1
 180;1;duperoll 1.1=1
 185;1.2;extratalismanslot=1;extratalismanslot v1.2=1.2
+186;0.1;mcd2localcooparrowsloot 0.1.0=0.1
