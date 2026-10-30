@@ -44,21 +44,21 @@
 71;1.1.2;better item stats 1.0=1;better item stats 1.1.2=1.1.2
 72;1.0;dungeons 1 menu camp=1.0
 73;1;custom walkspeed=1
-74;1.0.7;justkeeprolling=1.0.7
+74;1.0.8;justkeeprolling=1.0.8
 75;1.2.0;offlineherosync 1.2.0=1.2.0
 76;2;droptweaker v2=2
 78;2.2.2;d1stats chs 2.2.2=2.2.2
 79;1;mcd2 save editor=1
 81;2;autoheal25=2;autoheal50=2;autoheal75=2
 82;1.2.1;blueprintloader 2 1.1 2026 09 29t21 25z 5qmqdem8u=1.1;uncappedlevel-1.2.1=1.2.1
-83;1.1.3;dragsalvage=1.1.3
-84;1.1.5;emoticons=1.1.5
+83;1.1.4;dragsalvage=1.1.4
+84;1.1.6;emoticons=1.1.6
 87;0.4.0-amd.dev.25;mcd2 graphics 0.4.0-amd.dev.25 - windows installer=0.4.0-amd.dev.25;mcd2 graphics 0.4.0-amd.dev.25 - linux installer=0.4.0-amd.dev.25;mcd2 graphics dev.25 - reshade dependency=0.4.0-amd.dev.25
 88;1;minecraft dungeons ii usmap=1
 90;1.1;overlay mod=1.1
 91;1;dungeons vietnamese=1
 93;1.3.0;damage meter=1.3.0
-94;1.2.9;customskins=1.2.9
+94;1.3.1;customskins=1.3.1
 96;1;mappoifilter 1.0.0=1
 98;1.4;native mod template=1.2.1;native loader=1.4
 99;1.4.1;visualclarity 1.4.1=1.4.1
@@ -74,13 +74,13 @@
 112;1.0;mcd2 cheat menu 1.0=1.0
 114;1;zh-cn_commafix v1.0=1
 115;1.0;countdown skip=1.0
-116;1.1.7;customcapes=1.1.7
+116;1.1.9;customcapes=1.1.9
 118;1.1.1;multijump v1.0.0=1;double jump v1.1.0=1.1.0;triple jump v1.1.0=1.1.0;multijump v1.1.1=1.1.1
 119;2.3;asset dumper=2.3
 120;1;minecraft dungeons ii data=1
 122;1;stopkey=1
 125;1.0;clearer world map=1.0
-126;1.0.4;statsoverlay=1.0.4
+126;1.0.6;statsoverlay=1.0.6
 128;1.1.3;sprint mod v1.1.0=1.1.0;sprint mod v1.1.1=1.1.1;sprint mod v1.1.3=1.1.3
 129;1.1.0;infinite arrows v1.1.0=1.1.0
 130;1;fastroll v1.0.0=1
@@ -88,7 +88,7 @@
 132;1.1.1;dungeons trainer v1.1.0=1.1.0;dungeons trainer v1.1.1=1.1.1
 133;1.0;avmr 47 1.0 2026 10 05t20 27z zpup1yujk=1.0
 134;1;healthoverlay=1
-136;1.0.4;bettergear=1.0.4
+136;1.0.5;bettergear=1.0.5
 137;1;loadoutslots 0.1.7 install=1
 138;0.1.24;betterminimap 0.1.21=0.1.21;betterminimap 0.1.22=0.1.22;betterminimap 0.1.23=0.1.23;betterminimap 0.1.24=0.1.24
 139;1.4.1;dungeonmetrics 1.4.1=1.4.1
@@ -130,3 +130,4 @@
 180;1;duperoll 1.1=1
 185;1.3;extratalismanslot=1;extratalismanslot v1.3=1.3
 186;0.1;mcd2localcooparrowsloot 0.1.0=0.1
+187;1.0.2;jumpattackkills=1.0.2
