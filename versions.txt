@@ -134,4 +134,4 @@
 188;1.1;overheadhealthbars=1.1
 189;1.0;bogdandungeons2 mod files=1.0
 190;1.0.1;camera zoom v1.0.1=1.0.1
-191;1;mcd2batcheditor=1
+191;1;mcd2batcheditor=1;mcd2batcheditor-nodejs=1
